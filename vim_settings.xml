@@ -1,0 +1,78 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Documents/TrueCoders/repos/Java/project2/src/WordCount.java" timestamp="1518117150307">
+        <mark key="[" line="17" column="31" />
+        <mark key="]" line="17" column="34" />
+        <mark key="." line="17" column="34" />
+        <mark key="^" line="17" column="34" />
+      </file>
+      <file name="$USER_HOME$/Documents/TrueCoders/repos/Java/project1/src/VowelCount.java" timestamp="1518117371575">
+        <mark key="d" line="13" column="53" />
+        <mark key="'" line="13" column="52" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="16" />
+        <mark key="^" line="13" column="52" />
+        <mark key="." line="11" column="16" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="13" column="52" filename="$USER_HOME$/Documents/TrueCoders/repos/Java/project1/src/VowelCount.java" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdm93ZWxGb3VuZCA9IHRydWU7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaW50IHdvcmRDb3VudCA9IDA7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIH0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICB3b3JkQ291bnQgKz0gMTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIGlmICh3b3JkLmNoYXJBdCh3b3JkLmxlbmd0aCgpLTEpID09IHdvcmQuY2hhckF0KHdvcmQubGVuZ3RoKCktMikpIHsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICh3b3JkLmxlbmd0aCgpID4gMSkgewo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiB2b3dlbEZvdW5kID0gZmFsc2U7Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">IXZvd2VsRm91bmQgJiY=</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
